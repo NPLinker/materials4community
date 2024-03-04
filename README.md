@@ -8,6 +8,7 @@ This repository contains materials for the NPLinker community, including present
 
 ## 💻 Development updates
 
+ - [2024-03-05](./slides/20240305_nplinker_community_meeting.pdf)
  - [2024-02-09](./slides/20240209_nplinker_community_meeting.pdf)
 
 
