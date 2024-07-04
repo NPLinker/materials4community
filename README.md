@@ -15,7 +15,9 @@ This repository contains materials for the NPLinker community, including present
 
 ## 🗣️ Presentations
 
-- [2023-03-22 FAIR principles & how-to](./slides/20230322_FAIR_principles_and_howto.pdf)
+- [Static Typing in Python](https://zenodo.org/records/12569322)
+- [FAIR principles & how-to](./slides/20230322_FAIR_principles_and_howto.pdf)
+
 
 ## 🧑‍🤝‍🧑 NPLinker eScience Workshops
 
